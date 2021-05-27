@@ -239,6 +239,7 @@
 	color:#1d1c1c;
 	font-size:30px;
 	line-height:0px;	
+ 
 
 }
 .services-text p:nth-child(2){
@@ -253,7 +254,7 @@ color: black;
 
 }
 .services-text{
-	width: 500px;
+	text-align: center;
 	margin:50px 0px;
 }
 .box-container{
