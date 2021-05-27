@@ -325,7 +325,11 @@ color: black;
 	border-radius:5px;
 }
  
-
+/* personal projects */
+.carousel {
+  width:1296px;
+  height:702px;
+}
 
 
 
